@@ -125,7 +125,7 @@ Note: Make sure the frontend is running on port 3000 and the backend is running 
 ![Dashboard](frontend/public/readme-images/dashboard.png)
 
 ### Patient Stats
-![Patient Stats](frontend/public/readme-images/patient-stats.png)
+![Patient Stats](frontend/public/readme-images/stats.png)
 
 ### Reports
 ![Reports](frontend/public/readme-images/reports.png)
