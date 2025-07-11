@@ -26,11 +26,11 @@ Before running this application, ensure you have the following installed:
 
 2. **Add Data**
    ```sql
-  USE healthcare;
-    -- The 'doctor' table is automatically created when the backend starts.
-    -- So, make sure to run the backend first before executing the INSERT command.
+   USE healthcare;
    INSERT INTO doctor (username, password, role) VALUES ('doctor1', 'password123', 'DOCTOR'); 
    ```
+Note: The 'doctor' table is automatically created when the backend starts.
+      So, make sure to run the backend first before executing the INSERT command.
 
 ### Step 2: Backend Setup
 
