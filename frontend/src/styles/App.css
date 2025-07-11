@@ -1,0 +1,23 @@
+.app-root {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.main-content {
+  display: flex;
+  flex: 1;
+}
+
+.sidebar {
+  width: 220px;
+  background: #f5f5f5;
+  min-height: 100vh;
+  border-right: 1px solid #ddd;
+}
+
+.page-content {
+  flex: 1;
+  padding: 32px;
+  background: #fafbfc;
+} 

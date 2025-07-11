@@ -1,0 +1,18 @@
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.sidebar .Mui-selected {
+  background-color: #e3e3e3 !important;
+}
+
+.sidebar .MuiListItem-root {
+  border-radius: 4px;
+  margin-bottom: 4px;
+}
+
+.sidebar .MuiList-root {
+  flex-grow: 1;
+} 

@@ -1,0 +1,1 @@
+INSERT INTO doctor (username, password, role) VALUES ('doctor1', 'password123', 'DOCTOR'); 
